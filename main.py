@@ -9,10 +9,7 @@ import re
 # =====================================
 # GROQ API
 # =====================================
-import os
-
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-
+GROQ_API_KEY = "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"
 client = Groq(api_key=GROQ_API_KEY)
 
 # =====================================
