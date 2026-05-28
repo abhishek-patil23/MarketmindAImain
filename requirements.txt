@@ -4,5 +4,4 @@ groq
 yfinance
 yahooquery
 requests
-pydantic
 python-multipart
